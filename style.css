@@ -1,0 +1,20 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "gilroy";
+
+}
+html,body{
+height: 100%;
+width: 100%;
+}
+#centre{
+height: 200px;
+width: 400px;
+border: 2px solid rgb(8, 8, 8);
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+}
